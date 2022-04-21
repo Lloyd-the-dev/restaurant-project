@@ -1,0 +1,25 @@
+form {
+    width: 20%;
+    padding: 50px;
+    background-color: blueviolet;
+    padding-right: 100px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+input {
+    display: inline-block;
+}
+.leamao{
+    border-radius: 5px;
+}
+.submit{
+    background-color: lime;
+    padding: 15px;
+}
+.submit:hover{
+    cursor: pointer;
+}
+.h1lt{
+    color: black;
+}
